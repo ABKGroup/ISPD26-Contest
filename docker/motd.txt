@@ -1,0 +1,16 @@
+    _________ ____  ____     ___   _____
+   /  _/ ___// __ \/ __ \   |__ \ / ___/
+   / / \__ \/ /_/ / / / /   __/ // __ \ 
+ _/ / ___/ / ____/ /_/ /   / __// /_/ / 
+/___//____/_/   /_____/   /____/\____/  
+                                        
+
+ISPD-26 Contest Environment
+        Includes OpenROAD Sources, Yosys, and KLayout.
+        Based on Ubuntu 24.04.
+
+
+OpenROAD sources are located in /OpenROAD (Commit 8daed51a7436b4ff91dd19cb20c6feaaa5c342d7).
+
+OpenROAD-flow-scripts is located in /OpenROAD-flow-scripts (Commit 5049f849f9e3bffab7813c6f692f35d1364f39f0) 
+
