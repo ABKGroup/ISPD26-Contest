@@ -5,12 +5,14 @@ SHELL ["/bin/bash", "-c"]
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=America/Los_Angeles
 
+COPY entrypoint.sh /opt/entrypoint.sh
+RUN chmod 777 /opt/entrypoint.sh
+
 COPY image_init.sh /opt
 RUN source /opt/image_init.sh
 COPY prep_or.sh /opt
 RUN source /opt/prep_or.sh
 
-COPY bashrc /root/.bashrc
-RUN chmod 777 /root/.bashrc
 
 COPY motd.txt /etc/motd
+ENTRYPOINT ["/opt/entrypoint.sh"]
