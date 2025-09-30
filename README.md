@@ -12,8 +12,8 @@ Prof. Zhiang Wang, Fudan University [zhiangwang@fudan.edu.cn]
 
 ## Table of Content
 - Contest description: [ISPD26_contest_description.pdf](https://github.com/ABKGroup/ISPD26-Contest/blob/main/ISPD26_contest_description.pdf)
-- Benchmarks: 
-- Platform/ASAP7: 
+- [Benchmarks](./Benchmarks): Contest testcases including [aes_cipher_top](./Benchmarks/aes_cipher_top), [jpeg_encoder](./Benchmarks/jpeg_encoder/) and [ariane](./Benchmarks/ariane) designs
+- [Platform/ASAP7](./Platform/ASAP7): Technology platform files and libraries for the ASAP7 PDK
 - Evaluation scripts:
 
 ## Timeline
