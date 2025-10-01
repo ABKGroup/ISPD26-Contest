@@ -15,6 +15,7 @@ Prof. Zhiang Wang, Fudan University [zhiangwang@fudan.edu.cn]
 - [Benchmarks](./Benchmarks): The first set of released benchmarks including [aes_cipher_top](./Benchmarks/aes_cipher_top), [jpeg_encoder](./Benchmarks/jpeg_encoder/) and [ariane](./Benchmarks/ariane) designs
 - [Platform/ASAP7](./Platform/ASAP7): Technology platform files and libraries for the ASAP7 PDK
 - Evaluation scripts: Evaluation scripts for [aes_cipher_top](./scripts/aes_cipher_top/run.sh), [jpeg_encoder](./scripts/jpeg_encoder/run.sh) and [ariane](./scripts/ariane/run.sh) designs 
+- Docker containers and submission formatting: Dockerfile and commands required to maintain a consistent evaluation and submission environment can be found at the [`README` here](./docker/README.md).
 
 ## Timeline
 - Registration Open: Oct 1, 2025
