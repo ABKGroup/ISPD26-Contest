@@ -18,6 +18,7 @@ For users with supercomputing environments, including contestants granted access
 Thus, to support package installation, you need to create a writable "overlay" layer first, where Apptainer will store all changes. The process to do this and run the container is as follows:
 ```sh
 # You only need to do this once but may create multiple overlays to represent multiple isolated instances.
+# This example creates a 20 GB overlay but you may change this amount.
 singularity overlay create --fakeroot -S -s 20480 my_overlay.img 
 
 # For CPU only operation
