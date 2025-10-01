@@ -28,4 +28,4 @@ ISPD26-Contest/scripts/{design_name}/{folder_name}/metrics.csv
 ```
 - evaluation.log – detailed log of the evaluation process.
 
-- metrics.csv – performance metrics reported by OpenROAD’s timing and power analysis infrastructure.
+- metrics.csv – performance metrics.

@@ -12,14 +12,14 @@ Prof. Zhiang Wang, Fudan University [zhiangwang@fudan.edu.cn]
 
 ## Table of Contents
 - Contest description: [ISPD26_contest_description.pdf](./ISPD26_contest_description.pdf)
-- [Benchmarks](./Benchmarks): The first set of released benchmarks including [aes_cipher_top](./Benchmarks/aes_cipher_top), [jpeg_encoder](./Benchmarks/jpeg_encoder/) and [ariane](./Benchmarks/ariane) designs.
+- [Benchmarks](./Benchmarks): The first set of released benchmarks including [aes_cipher_top](./Benchmarks/aes_cipher_top), [jpeg_encoder](./Benchmarks/jpeg_encoder/) and [ariane](./Benchmarks/ariane).
 - [Platform/ASAP7](./Platform/ASAP7): Technology platform files and libraries for the ASAP7 PDK.
-- [Evaluation scripts](./scripts): Evaluation scripts for [aes_cipher_top](./scripts/aes_cipher_top/eval.sh), [jpeg_encoder](./scripts/jpeg_encoder/eval.sh) and [ariane](./scripts/ariane/eval.sh) designs. 
+- [Evaluation scripts](./scripts): Evaluation scripts for [aes_cipher_top](./scripts/aes_cipher_top/eval.sh), [jpeg_encoder](./scripts/jpeg_encoder/eval.sh) and [ariane](./scripts/ariane/eval.sh). 
 - [Docker containers and submission formatting](./docker): Dockerfile and commands required to maintain a consistent evaluation and submission environment can be found at the [`README`](./docker/README.md).
 
 ## Timeline
 - Registration Open: Oct 1, 2025
-- Release the first set of testcases, evaluation scripts and Docker image: Oct. 1, 2025
+- Release the first set of benchmarks, evaluation scripts and Docker image: Oct. 1, 2025
 - Registration Close: Nov 30, 2025
 - Alpha Submission Deadline: Jan 12, 2026
 - Beta Submission Deadline: Feb, 2, 2026
