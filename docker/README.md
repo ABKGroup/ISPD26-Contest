@@ -35,7 +35,7 @@ singularity run -o my_overlay.img --fakeroot --nv docker://udxs/ispd26:v1
 - A `run.sh` that will run your developed tool to produce the required `<design_name>.def`, `<design_name>.v` and `<design_name>.changelist` into the directory referenced by the environment variable `OUTPUT_DIR`. 
 - Any necessary data or code that is not already retrieved in your `setup.sh`.
 
-See *Section 6. Submission Guidelines* in the [contest description](../ISPD26_contest_description.pdf) for details.
+See *Section 6. Submission Guidelines* in the [contest description](../ISPD26_contest_description.pdf) for more details.
 
 This will be extracted within the container and executed when it comes time to official evaluation. Please thus ensure that your submission works in a fresh Docker or Apptainer/Singularity container when extracted to *any* location. 
 
