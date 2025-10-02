@@ -28,7 +28,7 @@ rm oss-cad-suite.tgz
 	&&  apt install gh -y
 
 cd /
-git clone --depth=1 https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts.git
+git clone https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts.git
 cd OpenROAD-flow-scripts
 git reset --hard 66e441c6cbb6cb9ac871726fc8373317f164ed84
 
