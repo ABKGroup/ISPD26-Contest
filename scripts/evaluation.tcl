@@ -80,6 +80,7 @@ if {[catch { global_route -allow_congestion -congestion_report_file $crfile } gr
   }
 }
 
+source $rc_file
 # Estimate parasitics using global routing
 estimate_parasitics -global_routing
 
