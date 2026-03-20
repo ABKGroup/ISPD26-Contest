@@ -12,7 +12,7 @@ Prof. Zhiang Wang, Fudan University [zhiangwang@fudan.edu.cn]
 
 ## Table of Contents
 - Contest description: [ISPD26_contest_description.pdf](./ISPD26_contest_description.pdf)
-- [Benchmarks](https://vlsicad.ucsd.edu/ISPD26-Contest/ispd26.html): Public benchmarks.
+- [Benchmarks](https://vlsicad.ucsd.edu/ISPD26-Contest/ispd26.html): Public and hidden benchmarks.
 - [Platform/ASAP7](./Platform/ASAP7): Technology platform files and libraries for the ASAP7 PDK.
 - [Evaluation scripts](./scripts): Evaluation scripts for [aes_cipher_top](./scripts/aes_cipher_top/eval.sh), [jpeg_encoder](./scripts/jpeg_encoder/eval.sh), [ariane](./scripts/ariane/eval.sh) and [bsg_chip](./scripts/bsg_chip/eval.sh). 
 - [Equivalence check](./equiv_check): Scripts for validating equivalence between pre-optimization and post-optimization netlists for ASAP7 designs.
@@ -27,7 +27,7 @@ Prof. Zhiang Wang, Fudan University [zhiangwang@fudan.edu.cn]
 - Release one large-scale testcase with placement blockages; all public benchmarks are available: Dec. 3, 2025
 - Alpha Submission Deadline: Jan 12, 2026
 - Beta Submission Deadline: Feb, 2, 2026
-- **Final Submission Deadline: Mar, 7, 2026 (Anywhere on earth, and it is a hard deadline)**
+- Final Submission Deadline: Mar, 7, 2026 (Anywhere on earth, and it is a hard deadline)**
 - Results Announcement: March 18, 2026
 
 
@@ -79,7 +79,7 @@ Email: ispd26contest@gmail.com
 | 35   | XORcists      | Faculty of Engineering, University of Peradeniya |
 | 36   | EDAnh      | National Taiwan University of Science and Technology |
 
-## Alpha Submission
+<!-- ## Alpha Submission
 | Rank | Total Score | Notes     | 
 |----------|-------------|-------------|
 | Rank1  | 1279.97      |     | 
@@ -95,7 +95,34 @@ Email: ispd26contest@gmail.com
 | Rank2   | 1185.65      |      | 
 | Rank3   | 1109.22      |      | 
 | OpenROAD RSZ   | 1107.55  | [script](./scripts/evaluation_baseline.tcl)      | 
-| pre_opt   | 0      | `contest.def` without any optimization  | 
+| pre_opt   | 0      | `contest.def` without any optimization  |  -->
+
+## Leaderboard - Final Submission
+### Overall leaderboard
+| Rank | Team | Total Score | Notes     | 
+|----------|-------------|-------------|-------------|
+|1 | Team33  | 1438.06      |     | 
+|2 | Team27   | 1347.03      |      | 
+|3 | Team31   | 1315.00      |      | 
+| |OpenROAD RSZ   | 1107.55  | [script](./scripts/evaluation_baseline.tcl)      | 
+| |pre_opt   | 0      | `contest.def` without any optimization  | 
+
+### Leaderboard per design
+| Design | Top Team | Note|
+|----------|-------------|-------------|
+|aes|Team33| |
+|aes_v2|Team33||
+|ariane|Team27||
+|ariane_v2|Team33||
+|bsg_chip|Team33||
+|bsg_chip_v2|Team33||
+|jpeg|Team33||
+|jpeg_v2|Team33||
+|ariane_h1|Team6| hidden testcase|
+|ariane_h2|Team33| hidden testcase|
+|bsg_chip_h1|Team6| hidden testcase|
+|bsg_chip_h2|Team6| hidden testcase|
+
 
 
 ## Contest Prizes
