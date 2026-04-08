@@ -98,15 +98,15 @@ Email: ispd26contest@gmail.com
 | pre_opt   | 0      | `contest.def` without any optimization  |  -->
 
 ## Leaderboard - Final Submission
-<!--### Overall leaderboard
+### Overall leaderboard
 | Rank | Team | Total Score | Notes     | 
 |----------|-------------|-------------|-------------|
 |1 | Team33  | 1438.06      |     | 
-|2 | Team27   | 1347.03      |      | 
-|3 | Team31   | 1315.00      |      | 
+|2 | Team31   | 1314.93      |      | 
+|3 | Team29   | 1301.32      |      | 
 | |OpenROAD RSZ   | 1107.55  | [script](./scripts/evaluation_baseline.tcl)      | 
 | |pre_opt   | 0      | `contest.def` without any optimization  | 
--->
+
 ### Leaderboard per design
 | Design | Top Team | Note|
 |----------|-------------|-------------|
