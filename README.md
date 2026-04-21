@@ -168,7 +168,7 @@ Email: ispd26contest@gmail.com
 |----------|-------------|-------------|
 |aes|Team33| |
 |aes_v2|Team33||
-|ariane|Team27||
+|ariane|Team29||
 |ariane_v2|Team33||
 |bsg_chip|Team33||
 |bsg_chip_v2|Team33||
@@ -178,6 +178,7 @@ Email: ispd26contest@gmail.com
 |ariane_h2|Team33| hidden testcase|
 |bsg_chip_h1|Team6| hidden testcase|
 |bsg_chip_h2|Team6| hidden testcase|
+
 
 
 
