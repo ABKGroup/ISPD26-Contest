@@ -98,6 +98,9 @@ Email: ispd26contest@gmail.com
 | pre_opt   | 0      | `contest.def` without any optimization  |  -->
 
 ## Leaderboard - Final Submission
+
+**Next year, we will use more rigorous evaluations (e.g., only on hidden testcases) and explicit policies to reinforce the spirit of the competition**
+
 ### Overall leaderboard
 | Rank | Team | Total Score | Notes     | 
 |----------|-------------|-------------|-------------|
@@ -175,7 +178,7 @@ Email: ispd26contest@gmail.com
 |bsg_chip_h2|Team6| hidden testcase|
 
 
-**Next year, we will use more rigorous evaluations (e.g., only on hidden testcases) and explicit policies to reinforce the spirit of the competition**
+
 
 ## Contest Prizes
 - First, second and third place winning teams will receive prizes consisting of cash and/or NVIDIA GPUs, with a total value of prizes at least USD $5000. Thanks to NVIDIA for their sponsorship of the ISPD26 contest prizes!
