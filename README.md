@@ -101,7 +101,7 @@ Email: ispd26contest@gmail.com
 
 13 final submissions were made.  One team subsequently withdrew their submission.
 
-**Next year, we will use more rigorous evaluations (e.g., only on hidden testcases) and explicit policies to reinforce the spirit of the competition**
+**Next year, we will use more rigorous evaluations (e.g., only on hidden testcases) and explicit policies to reinforce the spirit of the competition.**
 
 ### Overall leaderboard
 | Rank | Team | Total Score | Notes     | 
