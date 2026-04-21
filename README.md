@@ -131,7 +131,7 @@ Email: ispd26contest@gmail.com
 
 
 #### 2nd Place (Team 31)
-| Design Name | TNS | Dynamic Power (mW) | Leakage Power (mW) | Cap Over Sum | Slew Over Sum | Fanout Over Sum | Max GR Overflow | Total GR Overflow | Tool Runtime | Flow Runtime | Avg Disp (dbu) | Design Score |
+| Design Name | TNS (ps) | Dynamic Power (mW) | Leakage Power (mW) | Cap Over Sum | Slew Over Sum | Fanout Over Sum | Max GR Overflow | Total GR Overflow | Tool Runtime | Flow Runtime | Avg Disp (dbu) | Design Score |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | aes_cipher_top    | -62.90      | 62.39      | 0.0128 | 0     | 0       | 0 | 0 | 0 | 19.38    | 8.0     | 0.01 | **113.71** |
 | aes_cipher_top_v2 | -52.11      | 242.99     | 0.0137 | 0     | 0.29    | 0 | 0 | 0 | 57.12    | 6.0     | 0.16 | **99.02**  |
@@ -147,7 +147,7 @@ Email: ispd26contest@gmail.com
 | bsg_chip_h2       | -75,461.08  | 799.80     | 29.20  | 0     | 590.33  | 0 | 0 | 0 | 2,152.70 | 849.0   | 0.02 | **78.20**  |
 
 #### 3rd Place (Team 29)
-| Design Name | TNS | Dynamic Power (mW) | Leakage Power (mW) | Cap Over Sum | Slew Over Sum | Fanout Over Sum | Max GR Overflow | Total GR Overflow | Tool Runtime | Flow Runtime | Avg Disp (dbu) | Design Score |
+| Design Name | TNS (ps) | Dynamic Power (mW) | Leakage Power (mW) | Cap Over Sum | Slew Over Sum | Fanout Over Sum | Max GR Overflow | Total GR Overflow | Tool Runtime | Flow Runtime | Avg Disp (dbu) | Design Score |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | aes_cipher_top    | -66.69      | 60.89      | 0.0125 | 0     | 2.86    | 0 | 0 | 0 | 24.56    | 8.5     | 0.00 | **113.58** |
 | aes_cipher_top_v2 | -41.27      | 239.98     | 0.0162 | 0.02  | 0       | 0 | 0 | 0 | 132.10   | 6.0     | 0.14 | **105.49** |
